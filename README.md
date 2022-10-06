@@ -1,14 +1,24 @@
 ### 👋 Hi, I’m Sayantan Samanta
 - 💼 I work as a Sofware Engineer at Hoggy.
-- 👀 I’m interested in Web Engineering, Blockchain and Web3.
+- 👀 I’m interested in Web/Mobile Engineering, Blockchain and Web3.
 - 🌱 I’m currently learning Web Tooling and Go.
 - 📫 How to reach me: [instagram](https://www.instagram.com/sayantan__s/) [linkedin](https://www.linkedin.com/in/sayantan-samanta-554bb117a/)
 
 ### 🛠️ Languages and Tools
-![javascript](https://cdn.svgporn.com/logos/javascript.svg)
-![typescript](https://cdn.svgporn.com/logos/typescript-icon.svg)
-![react](https://cdn.svgporn.com/logos/react.svg)
-![nodejs](https://cdn.svgporn.com/logos/nodejs-icon.svg)
+<img src="https://cdn.svgporn.com/logos/javascript.svg" width="48">&nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
+&nbsp;<img src="https://cdn.svgporn.com/logos/react.svg" width="48">
+&nbsp;<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="45">
+&nbsp;<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="24">
+&nbsp;<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="48">
+&nbsp;<img src="https://cdn.svgporn.com/logos/github-actions.svg" width="48">
+&nbsp;<img src="https://cdn.svgporn.com/logos/npm-icon.svg" width="48">
+&nbsp;<img src="https://cdn.svgporn.com/logos/yarn.svg" width="48">
+&nbsp;<img src="https://cdn.svgporn.com/logos/webpack.svg" width="48">
+
+
+
+
+
 
 
 <!---
