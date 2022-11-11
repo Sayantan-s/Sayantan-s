@@ -6,7 +6,7 @@
 
 ### 🛠️ Languages and Tools
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48">&nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
-&nbsp;<img src="../react.svg" width="48">
+&nbsp;<img src="./react.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="45">
 &nbsp;<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="24">
 &nbsp;<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="48">
