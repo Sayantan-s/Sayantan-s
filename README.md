@@ -13,8 +13,10 @@
 &nbsp;<img src="https://cdn.svgporn.com/logos/firebase.svg" width="36">
 &nbsp;<img src="https://cdn.svgporn.com/logos/npm-icon.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/yarn.svg" width="48">
+&nbsp;<img src="https://vitejs.dev/logo.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/webpack.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/github-actions.svg" width="48">
+
 
 
 
