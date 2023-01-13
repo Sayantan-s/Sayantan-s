@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Sayantan Samanta
 - 💼 I work as a Sofware Engineer at Hoggy.
 - 👀 I’m interested in Web/Mobile Engineering, Blockchain and Web3.
-- 🌱 I’m currently learning Web Tooling and Go.
+- 🌱 I’m currently learning Web Tooling and Javascript Testing.
 - 📫 How to reach me: [instagram](https://www.instagram.com/sayantan__s/) [linkedin](https://www.linkedin.com/in/sayantan-samanta-554bb117a/) [website](https://portfolio-22-smoky.vercel.app)
 
 ### 🛠️ Languages and Tools
