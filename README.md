@@ -17,7 +17,9 @@
 &nbsp;<img src="https://cdn.svgporn.com/logos/webpack.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/github-actions.svg" width="48">
 
+### ✍️ Blogs
 
+[Domain name and hit Enter. Then?](https://icegeek.hashnode.dev/dnahet)
 
 
 
