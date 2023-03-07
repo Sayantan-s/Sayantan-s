@@ -19,7 +19,7 @@
 
 ### ✍️ Blogs
 
-[Domain name and hit Enter. Then?](https://icegeek.hashnode.dev/dnahet)
+- [Domain name and hit Enter. Then?](https://icegeek.hashnode.dev/dnahet)
 
 
 
