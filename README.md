@@ -21,6 +21,10 @@
 
 - [Domain name and hit Enter. Then?](https://icegeek.hashnode.dev/dnahet)
 
+### 🖥️ Open Source
+- [Auth.js](github.com/nextauthjs/docs/pull/72)
+- [Layer5.io](github.com/layer5io/layer5/pull/2345)
+
 
 
 
