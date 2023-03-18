@@ -22,8 +22,8 @@
 - [Domain name and hit Enter. Then?](https://icegeek.hashnode.dev/dnahet)
 
 ### 🖥️ Open Source
-- [github.com/nextauthjs/docs/pull/72](github.com/nextauthjs/docs/pull/72)
-- [github.com/layer5io/layer5/pull/2345](github.com/layer5io/layer5/pull/2345)
+- [github.com/nextauthjs/docs/pull/72](https://github.com/nextauthjs/docs/pull/72)
+- [github.com/layer5io/layer5/pull/2345](https://github.com/layer5io/layer5/pull/2345)
 
 
 
