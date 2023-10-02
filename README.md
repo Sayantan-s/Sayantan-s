@@ -6,6 +6,7 @@
 
 ### 🛠️ Languages and Tools
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48">&nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
+&nbsp;<img src="https://cdn.svgporn.com/logos/python.svg" width="48">
 &nbsp;<img src="./react.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="45">
 &nbsp;<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="24">
@@ -16,7 +17,6 @@
 &nbsp;<img src="https://vitejs.dev/logo.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/webpack.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/github-actions.svg" width="48">
-
 ### ✍️ Blogs
 
 - [Domain name and hit Enter. Then?](https://icegeek.hashnode.dev/dnahet)
