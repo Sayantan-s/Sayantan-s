@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Sayantan Samanta
-- 💼 I work as a Frontend Engineer at Hyresnap.
+- 💼 I work as a **Frontend Engineer** at Hyresnap.
 - 👀 I’m interested in Web/Mobile Engineering, Blockchain and Web3.
 - 🌱 I’m currently learning Websockets and GraphQL.
 - 📫 How to reach me: [instagram](https://www.instagram.com/sayantan__s/) [linkedin](https://www.linkedin.com/in/sayantan-s-554bb117a/) [website](https://portfolio-22-smoky.vercel.app)
