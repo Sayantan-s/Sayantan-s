@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Sayantan Samanta
-- 💼 I work as a **Frontend Engineer** at Hyresnap.
-- 👀 I’m interested in Web / Agentic AI.
-- 🌱 I’m currently learning a11y and vue.
-- 📫 How to reach me: [instagram](https://www.instagram.com/sayantan__s/) [linkedin](https://www.linkedin.com/in/sayantan-s-554bb117a/) [website](https://portfolio-22-smoky.vercel.app)
+- 💼 working as a **Frontend Engineer** at hyresnap.
+- 👀 interested in Web / Agentic AI.
+- 🌱 learning a11y and vue.
+- 📫 how to reach me: [linkedin](https://www.linkedin.com/in/sayantan-s-554bb117a/) [website](https://portfolio-22-smoky.vercel.app)
 
 ### 🛠️ Languages and Tools
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48">&nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
