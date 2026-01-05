@@ -2,7 +2,7 @@
 - 💼 working as a **Frontend Engineer** at hyresnap.
 - 👀 interested in Web / Agentic AI.
 - 🌱 learning a11y and vue.
-- 📫 how to reach me: [linkedin](https://www.linkedin.com/in/sayantan-s-554bb117a/) [website](https://sayantanuwu.vercel.app/)
+- 📫 how to reach me: [in](https://www.linkedin.com/in/sayantan-s-554bb117a/) [web](https://sayantanuwu.vercel.app/) [ig](https://www.instagram.com/sayantannnnnn/)
 
 ### 🛠️ Languages and Tools
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48">&nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
