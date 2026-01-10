@@ -1,7 +1,7 @@
 ### 👋 hi, i'm sayantan
 - 💼 working as a **frontend engineer** at hyresnap.
 - 👀 interested in web / agentic systems.
-- 🌱 learning a11y and vue.
+- 🌱 learning perf and vue.
 - 📫 how to reach me: [in](https://www.linkedin.com/in/sayantan-s-554bb117a/) [ig](https://www.instagram.com/sayantannnnnn/) [web](https://sayantanuwu.vercel.app/)
 
 ### 🛠️ Languages and Tools
