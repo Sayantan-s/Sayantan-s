@@ -2,7 +2,7 @@
 - 💼 working as a **frontend engineer** at hyresnap.
 - 👀 interested in web / agentic systems.
 - 🌱 learning perf and vue.
-- 📫 how to reach me: [in](https://www.linkedin.com/in/sayantan-s-554bb117a/) [ig](https://www.instagram.com/sayantannnnnn/) [web](https://sayantanuwu.vercel.app/)
+- 📫 how to reach me: [in](https://www.linkedin.com/in/sayantan-s-554bb117a/) [ig](https://www.instagram.com/sayantannnnnn/) [web](https://sayantannnnnn.vercel.app)
 
 ### 🛠️ Languages and Tools
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48">&nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
