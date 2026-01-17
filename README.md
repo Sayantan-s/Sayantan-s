@@ -17,7 +17,7 @@
 &nbsp;<img src="https://cdn.svgporn.com/logos/github-actions.svg" width="48">
 ### ✍️ Blogs
 
-- [xyz.com + Enter = ✨ But How?](https://sayantanuwu.vercel.app/blog/dnahet)
+- [xyz.com + Enter = ✨ But How?](https://sayantannnnnn.vercel.app/blog/dnahet)
 
 ### 🖥️ Open Source
 - [github.com/nextauthjs/docs/pull/72](https://github.com/nextauthjs/docs/pull/72)
