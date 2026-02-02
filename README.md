@@ -4,7 +4,7 @@
 - 🌱 learning perf and vue.
 - 📫 how to reach me: [in](https://www.linkedin.com/in/sayantan-s-554bb117a/) [ig](https://www.instagram.com/sayantannnnnn/) [web](https://sayantannnnnn.vercel.app)
 
-### 🛠️ Tools I use in 2026
+### 🛠️ tools I use in 2026
 &nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/python.svg" width="48">
 &nbsp;<img src="./react.svg" width="48">
@@ -16,12 +16,13 @@
 &nbsp;<img src="https://cdn.svgporn.com/logos/redis.svg" width="48">
 &nbsp;<img src="https://cdn.svglogos.dev/logos/claude-icon.svg" width="48">
 &nbsp;<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mcp.png" width="48">
-### ✍️ Blogs
+
+### ✍️ blogs
 
 - [xyz.com + Enter = ✨ But How?](https://sayantannnnnn.vercel.app/blog/dnahet)
 - [vibing in '26](https://sayantannnnnn.vercel.app/misc/code_in_2026)
 
-### 🖥️ Open Source
+### 🖥️ open Source
 - [github.com/nextauthjs/docs/pull/72](https://github.com/nextauthjs/docs/pull/72)
 - [github.com/layer5io/layer5/pull/2345](https://github.com/layer5io/layer5/pull/2345)
 
