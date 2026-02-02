@@ -1,5 +1,5 @@
 ### 👋 hi, i'm sayantan
-- 💼 working as a **frontend engineer** @314e.
+- 💼 working as a **software engineer** @314e.
 - 👀 interested in web / agentic systems.
 - 🌱 learning perf and vue.
 - 📫 how to reach me: [in](https://www.linkedin.com/in/sayantan-s-554bb117a/) [ig](https://www.instagram.com/sayantannnnnn/) [web](https://sayantannnnnn.vercel.app)
