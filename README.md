@@ -9,7 +9,7 @@
 &nbsp;<img src="https://cdn.svgporn.com/logos/python.svg" width="48">
 &nbsp;<img src="./react.svg" width="48">
 &nbsp;<img src="https://cdn.svglogos.dev/logos/vue.svg" width="48">
-&nbsp;<img src="https://cdn.svglogos.dev/logos/astro-icon.svg" width="40">
+&nbsp;<img src="https://cdn.svglogos.dev/logos/astro-icon.svg" width="40"> 
 &nbsp;<img src="https://cdn.svglogos.dev/logos/fastapi-icon.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" width="24">
 &nbsp;<img src="https://cdn.svgporn.com/logos/postgresql.svg" width="48">
