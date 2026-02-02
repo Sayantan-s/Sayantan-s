@@ -4,7 +4,7 @@
 - 🌱 learning perf and vue.
 - 📫 how to reach me: [in](https://www.linkedin.com/in/sayantan-s-554bb117a/) [ig](https://www.instagram.com/sayantannnnnn/) [web](https://sayantannnnnn.vercel.app)
 
-### 🛠️ Languages and Tools
+### 🛠️ Tools I use in 2026
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="48">&nbsp;<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="48">
 &nbsp;<img src="https://cdn.svgporn.com/logos/python.svg" width="48">
 &nbsp;<img src="./react.svg" width="48">
