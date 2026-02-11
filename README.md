@@ -20,7 +20,7 @@
 ### ✍️ blogs
 
 - [xyz.com + Enter = ✨ But How?](https://sayantannnnnn.vercel.app/blog/dnahet)
-- [vibing in '26](https://sayantannnnnn.vercel.app/misc/code_in_2026)
+- [Code is cheap, show me the talk.](https://sayantannnnnn.vercel.app/misc/code_in_2026)
 
 ### 🖥️ open Source
 - [github.com/nextauthjs/docs/pull/72](https://github.com/nextauthjs/docs/pull/72)
